@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.wave-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wave-img {
+  width: 15%;
+  height: 15%;
+  margin-right: 5px;
+}
+
+.list-container {
+  list-style-type: none;
+  display: flex;
+  padding: 10px;
+}
+
+.each {
+  font-family: 'Roboto';
+  color: #12022f;
+  font-weight: bold;
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

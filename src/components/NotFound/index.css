@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.not-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex-direction: column;
+}
+
+.not-img {
+  width: 15%;
+}
+
+.not-text {
+  color: #551e53;
+  font-family: 'Roboto';
+  font-size: 40px;
+  margin-top: 10px;
+}
